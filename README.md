@@ -2,6 +2,8 @@
 
 Welcome to my personal script repository! Here you'll find all the scripts I've created, organized into **Featured** and **Archived** sections for easy access.
 
+I've showcased some  of my script myself. Check it out: https://www.youtube.com/@sypcer
+
 ---
 
 ## 🌟 Featured Scripts
