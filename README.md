@@ -1,4 +1,4 @@
-# 💻 Scripts made by Sypcerr
+# 💻 Scripts made by sypcerr
 
 Welcome to my personal script repository! Here you'll find **all the scripts** I've created.
 
