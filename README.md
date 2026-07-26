@@ -4,7 +4,9 @@ Welcome to my personal script repository! Here you'll find **all the scripts** I
 
 No one really checks out the GitHub page when using my scripts, but
 
-**Thank you guys for over 400,000 executions.**
+**Thank you guys for over 500,000 executions.**
+
+![Executions](https://github.com/sypcerr/scripts/blob/main/2f9f4ef9-778d-4f24-940c-bf8b3eecd6f7.jpg?raw=true)
 
 ---
 
